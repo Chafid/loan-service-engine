@@ -42,7 +42,7 @@ User registration was intentionally excluded. The project’s focus is on the lo
 
 ### 1. Clone this repository
 ```
-git clone https://www.github.com/chafid/loan-service-engine
+git clone https://www.github.com/chafid/loan-service-engine.git
 ```
 
 ### 2. Install dependencies
