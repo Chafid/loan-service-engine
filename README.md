@@ -3,7 +3,7 @@
 This is a loan processing backend API developed using Go and Gin. It simulates a real-world microfinance workflow, including loan proposal, approval, investment, disbursement, and agreement letter generation.
 
 ## System Design
-As part of the Amartha interview process, I developed a backend service focused on tracking the full lifecycle of a loan. Several key design decisions were made to balance realism, scalability, and development speed:
+I developed a backend service focused on tracking the full lifecycle of a loan. Several key design decisions were made to balance realism, scalability, and development speed:
 
 ### Framework Choice:
 The Gin web framework was selected for its performance, simplicity, and my familiarity with it, enabling efficient development within a limited timeframe.
